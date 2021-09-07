@@ -8,6 +8,9 @@
 #### 实现了实时信息标注目标数量功能
 #### 实现了检测目标实时存储功能
 
+
+
+
 ## 2021/09/06: China-Software-Cup-Second-Prize-in-Video-Analysis
 第十届中国软件杯A2百度paddlepaddle跟踪赛道“二等奖”
 ### 功能：
