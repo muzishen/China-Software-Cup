@@ -21,25 +21,4 @@
 #### 实现了可以指定多个类别的检测与跟踪，包括（行人/汽车/自行车/摩托车/大卡车等）
 
 
-## Citation
 
-If you find this code useful for your research, please cite our paper
-```
-@article{shen2021exploring,
-  title={Exploring spatial significance via hybrid pyramidal graph network for vehicle re-identification},
-  author={Shen, Fei and Zhu, Jianqing and Zhu, Xiaobin and Xie, Yi and Huang, Jingchang},
-  journal={IEEE Transactions on Intelligent Transportation Systems},
-  year={2021},
-  publisher={IEEE}
-}
-```
-
-```
-@article{shen2021efficient,
-  title={An Efficient Multi-Resolution Network for Vehicle Re-identification},
-  author={Shen, Fei and Zhu, Jianqing and Zhu, Xiaobin and Huang, Jingchang and Zeng, Huanqiang and Lei, Zhen and Cai, Canhui},
-  journal={IEEE Internet of Things Journal},
-  year={2021},
-  publisher={IEEE}
-}
-```
